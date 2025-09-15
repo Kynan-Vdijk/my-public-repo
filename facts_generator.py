@@ -15,6 +15,8 @@ def class_contributions():
         # ik heb geen zin in de les
         
 
+        ("Ahmed", "Hoi"),
+
     ]
 
     return contributions
